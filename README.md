@@ -66,3 +66,7 @@ Your patches are welcome. Here's our suggested workflow:
 * Make your feature addition or bug fix.
 * Send us a pull request with a description of your work. Bonus points for topic branches!
 ```
+
+## Copyright and Attribution
+
+<How do you want your work to be cited by your users?>
