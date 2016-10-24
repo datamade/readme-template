@@ -25,11 +25,13 @@ Text in `<brackets>` (as under `Getting Started`) indicates template instruction
 
 ### Dependencies
 
-<Provide links and descriptions to the libraries you're having your users download.>
+<Provide links and descriptions for the third-party libraries you're having your users install.>
 
 ### Installation
 
-<Include commands for Mac OS X, Ubuntu, and Windows, if possible.>
+* Mac OS X
+* Ubuntu
+* Windows (if applicable)
 
 ### Getting Started
 
@@ -44,12 +46,13 @@ Text in `<brackets>` (as under `Getting Started`) indicates template instruction
 
 ## Demo
 
-<Grab a simple block of code that uses your tool and paste it here.>
+<Grab a simple block of code that makes use of your project/tool and paste it here.>
 
 ## Team
 
 * Who worked on your project? 
 * Let your users know with a tasteful bulleted list.
+* Add a "contributors" section if you've incorporated pull requests.
 
 ## Errors and Bugs
 
