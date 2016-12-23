@@ -59,9 +59,9 @@ Usage:
 
 ## Team
 
-* Who worked on your project? 
-* Let your users know with a tasteful bulleted list.
-* Add a "contributors" section if you've incorporated pull requests.
+* *Name, Organization - role or tasks worked on*
+
+*Add a "contributors" section if you've incorporated pull requests.*
 
 ## Errors and bugs
 
