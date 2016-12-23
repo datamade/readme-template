@@ -6,6 +6,8 @@ Need to quickly put together documentation for your repo? Copy and paste this te
 
 Here are a few examples of well-documented code:
 
+* [usaddress](https://github.com/datamade/usaddress)
+* [FusionTable-Map-Template](https://github.com/derekeder/FusionTable-Map-Template)
 * [CSVDedupe](https://github.com/datamade/csvdedupe)
 * [Lake Charles, LA Directory](https://github.com/datamade/lake-charles-la-directory)
 * [Chicago Councilmatic](https://github.com/datamade/chi-councilmatic)
@@ -19,7 +21,7 @@ Text in `*italics*` (as under `Getting Started`) indicates template instructions
 ```
 # *Project title*
 
-*Short description of your project, in one or two sentences*. 
+*Short description of your project, in one or two sentences.* 
 
 ## Setup 
 
