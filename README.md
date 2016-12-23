@@ -1,6 +1,6 @@
 # DataMade README Template
 
-Need to quickly put together documentation for your repo? Copy and paste this template into your README, tweak it, and turn it over to the public (or your fellow coworkers).
+Need to quickly put together documentation for your repo? Copy and paste this template into your README.md, tweak it, and turn it over to the public (or your fellow coworkers).
 
 ## Inspiration
 
@@ -11,9 +11,17 @@ Here are a few examples of well-documented code:
 * [csvdedupe](https://github.com/datamade/csvdedupe)
 * [chi-councilmatic](https://github.com/datamade/chi-councilmatic)
 
-## A note on formatting
+## Usage & formatting
 
-Text in `*italics*` (as under `Getting Started`) indicates template instructions that should be replaced with text specific to the project. Regular text (as under `Errors and Bugs`) indicates a standard block of text that you can copy/paste directly.
+This Readme template is written using Markdown. See [GitHub's instructions on writing in Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) if you aren't familiar.
+
+Usage:
+
+1. In your repository, create a new file and name it `README.md`.
+2. Copy and paste the below template in your README.md
+3. Edit the text as needed for your project
+
+**Note** Text in `*italics*` (as under `Getting started`) indicates template instructions that should be replaced with text specific to the project. Regular text (as under `Errors and bugs`) indicates a standard block of text that you can copy/paste directly.
 
 ## The template
 
