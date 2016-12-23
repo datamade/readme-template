@@ -12,20 +12,20 @@ Here are a few examples of well-documented code:
 
 ## A note on formatting
 
-Text in `<brackets>` (as under `Getting Started`) indicates template instructions that should be replaced with text specific to the project. Regular text (as under `Errors and Bugs`) indicates a standard block of text that you can copy/paste directly.
+Text in `*italics*` (as under `Getting Started`) indicates template instructions that should be replaced with text specific to the project. Regular text (as under `Errors and Bugs`) indicates a standard block of text that you can copy/paste directly.
 
 ## The template
 
 ```
 # <Project title>
 
-<Short description of your project, in one or two sentences>. 
+*Short description of your project, in one or two sentences*. 
 
 ## Setup 
 
 ### Dependencies
 
-<Provide links and descriptions for the third-party libraries you're having your users install.>
+*Provide links and descriptions for the third-party libraries you're having your users install.*
 
 ### Installation
 
@@ -35,18 +35,18 @@ Text in `<brackets>` (as under `Getting Started`) indicates template instruction
 
 ### Getting Started
 
-<What does your user need to know to get everything ready after installation?>
-<Think about databases, config files, and settings.>
+*What does your user need to know to get everything ready after installation?*
+*Think about databases, config files, and settings.*
 
 ## Usage
 
-<Give your users a sense of the workflow for using your project/tool.>
-<For a website this might include code for running locally.>
-<For an API this might include method and parameter specs.>
+*Give your users a sense of the workflow for using your project/tool.*
+*For a website this might include code for running locally.*
+*For an API this might include method and parameter specs.*
 
 ## Demo
 
-<Grab a simple block of code that makes use of your project/tool and paste it here.>
+*Grab a simple block of code that makes use of your project/tool and paste it here.*
 
 ## Team
 
@@ -71,6 +71,6 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and Attribution
 
-<How do you want your work to be cited by your users?>
+*How do you want your work to be cited by your users?*
 ```
 
