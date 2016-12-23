@@ -8,9 +8,8 @@ Here are a few examples of well-documented code:
 
 * [usaddress](https://github.com/datamade/usaddress)
 * [FusionTable-Map-Template](https://github.com/derekeder/FusionTable-Map-Template)
-* [CSVDedupe](https://github.com/datamade/csvdedupe)
-* [Lake Charles, LA Directory](https://github.com/datamade/lake-charles-la-directory)
-* [Chicago Councilmatic](https://github.com/datamade/chi-councilmatic)
+* [csvdedupe](https://github.com/datamade/csvdedupe)
+* [chi-councilmatic](https://github.com/datamade/chi-councilmatic)
 
 ## A note on formatting
 
