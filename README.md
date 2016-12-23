@@ -17,7 +17,7 @@ Text in `*italics*` (as under `Getting Started`) indicates template instructions
 ## The template
 
 ```
-# <Project title>
+# *Project title*
 
 *Short description of your project, in one or two sentences*. 
 
