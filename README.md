@@ -34,7 +34,7 @@ Text in `*italics*` (as under `Getting Started`) indicates template instructions
 * Ubuntu
 * Windows (if applicable)
 
-### Getting Started
+### Getting started
 
 *What does your user need to know to get everything ready after installation?*
 *Think about databases, config files, and settings.*
@@ -55,14 +55,14 @@ Text in `*italics*` (as under `Getting Started`) indicates template instructions
 * Let your users know with a tasteful bulleted list.
 * Add a "contributors" section if you've incorporated pull requests.
 
-## Errors and Bugs
+## Errors and bugs
 
 If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/<your repo>/issues
+Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
 
 Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
-## Patches and Pull Requests
+## Patches and pull requests
 
 Your patches are welcome. Here's our suggested workflow:
  
@@ -70,8 +70,8 @@ Your patches are welcome. Here's our suggested workflow:
 * Make your feature addition or bug fix.
 * Send us a pull request with a description of your work. Bonus points for topic branches!
 
-## Copyright and Attribution
+## Copyright and attribution
 
-*How do you want your work to be cited by your users?*
+Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
 ```
 
